@@ -4,10 +4,18 @@ Taru-icons with Other Distro Colors and Desktop Environments . The plan is to co
 
 # Varients
 
-  Hex-Color codes of all base colors
+Hex-Color codes of all base colors
+
+
 Taru-Amber 	#eea834
+
+
 Taru-Aqua 	#41c6c8
+
+
 Taru-Aubergine 	#77216F
+
+
 Taru-Blue 	#208fe9
 Taru-Brown 	#995640
 Taru-Cinnamon 	#dd682a 
